@@ -7,8 +7,8 @@ This repository is the official implementation of X-Prompt
 [Ziyang Chu](https://github.com/Anthony77777777),
 [Pan Zhang](https://panzhang0212.github.io/),
 [Tong Wu](https://wutong16.github.io/),
-[Xiaoyi Dong](https://lightdxy.github.io/),
 [Yuhang Zang](https://yuhangzang.github.io/),
+[Xiaoyi Dong](https://lightdxy.github.io/),
 [Yuanjun Xiong](http://yjxiong.me/),
 [Dahua Lin](http://dahua.site/),
 [Jiaqi Wang](https://myownskyw7.github.io/)
