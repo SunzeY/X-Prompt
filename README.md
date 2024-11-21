@@ -1,4 +1,4 @@
-# Alpha-CLIP
+# X-Prompt
 This repository is the official implementation of X-Prompt
 
 **[Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](https://arxiv.org/abs/2312.03818)**
