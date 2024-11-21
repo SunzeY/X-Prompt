@@ -1,10 +1,10 @@
 # Alpha-CLIP
 This repository is the official implementation of X-Prompt
 
-**[X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](https://arxiv.org/abs/2312.03818)**
+**[Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](https://arxiv.org/abs/2312.03818)**
 </br>
 [Zeyi Sun](https://github.com/SunzeY),
-Ziyang Chu,
+[Ziyang Chu](https://github.com/Anthony77777777),
 [Pan Zhang](https://panzhang0212.github.io/),
 [Tong Wu](https://wutong16.github.io/),
 [Xiaoyi Dong](https://lightdxy.github.io/),
@@ -12,7 +12,6 @@ Ziyang Chu,
 [Yuanjun Xiong](http://yjxiong.me/),
 [Dahua Lin](http://dahua.site/),
 [Jiaqi Wang](https://myownskyw7.github.io/)
-<p style="font-size: 0.6em; margin-top: -1em">*Equal Contribution</p>
 <p align="center">
 <a href="https://arxiv.org/abs/2312.03818"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 </p>
