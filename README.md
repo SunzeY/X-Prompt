@@ -1,8 +1,8 @@
 <div align="center">
 
-# X-Prompt
+# <span style="color: rgb(114, 58, 107); font-weight: bold;">X-Prompt</span>
 
-<b> This repository is the official implementation of X-Prompt Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models </b>
+<b> This repository is the official implementation of <span style="color: rgb(114, 58, 107); font-weight: bold;">X-Prompt</span>: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models </b>
 
 </div>
 <img src="assets/incontext.png">
