@@ -1,10 +1,9 @@
 <div align="center">
 # X-Prompt
 <b> This repository is the official implementation of X-Prompt Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models </b>
+</div>
 <img src="assets/incontext.png" width="30%"/>
 <img src="assets/t2i.png" width="30%"/>
-</div>
-
 
 **[Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](https://arxiv.org/abs/2312.03818)**
 </br>
