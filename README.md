@@ -8,7 +8,7 @@
 <img src="assets/incontext.png">
 <img src="assets/t2i.png">
 
-**[Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](https://arxiv.org/abs/2312.03818)**
+**[Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models](https://arxiv.org/abs/2412.01824)**
 </br>
 [Zeyi Sun](https://github.com/SunzeY),
 [Ziyang Chu](https://github.com/Anthony77777777),
@@ -34,12 +34,13 @@
 ## ✒️ Citation
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 ```bibtex
-@misc{sun2023alphaclip,
-      title={Alpha-CLIP: A CLIP Model Focusing on Wherever You Want}, 
-      author={Zeyi Sun and Ye Fang and Tong Wu and Pan Zhang and Yuhang Zang and Shu Kong and Yuanjun Xiong and Dahua Lin and Jiaqi Wang},
-      year={2023},
-      eprint={2312.03818},
+@misc{sun2024xpromptuniversalincontextimage,
+      title={X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models}, 
+      author={Zeyi Sun and Ziyang Chu and Pan Zhang and Tong Wu and Xiaoyi Dong and Yuhang Zang and Yuanjun Xiong and Dahua Lin and Jiaqi Wang},
+      year={2024},
+      eprint={2412.01824},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.01824}, 
 }
 ```
