@@ -20,7 +20,7 @@
 [Dahua Lin](http://dahua.site/),
 [Jiaqi Wang](https://myownskyw7.github.io/)
 <p align="center">
-<a href="https://arxiv.org/abs/2312.03818"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://arxiv.org/abs/2412.01824"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
 </p>
 
 🔥 We will release the code and models soon!
